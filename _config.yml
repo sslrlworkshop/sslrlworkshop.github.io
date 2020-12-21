@@ -1,0 +1,9 @@
+title: Self-supervision for reinforcement learning
+description: Self-supervised methods for sequential decision making tasks
+  ---
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+ga_id: UA-144588579-1
