@@ -202,7 +202,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://scholar.google.com/citations?user=mXtH1UYAAAAJ&hl=en">
-      <img class="people-pic" src="{{ "/static/img/people/amy_zhang.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/amy_zhang.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://scholar.google.com/citations?user=mXtH1UYAAAAJ&hl=en">Amy Zhang</a>
@@ -238,7 +238,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://sites.ualberta.ca/~kjaved/">
-      <img class="people-pic" src="{{ "/static/img/people/khurram_javed.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/khurram_javed.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://sites.ualberta.ca/~kjaved/">Khurram Javed</a>
@@ -256,7 +256,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://tldoan.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/thang_doan.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/thang_doan.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://tldoan.github.io/">Thang Doan</a>
