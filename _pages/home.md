@@ -150,7 +150,7 @@ acknowledgements: ""
       <img class="people-pic" src="{{ "/static/img/people/elise_van_der_pol.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://www.elisevanderpol.nl/">Elise vad der Pol</a>
+      <a href="http://www.elisevanderpol.nl/">Elise van der Pol</a>
       <h6>University of Amsterdam</h6>
     </div>
   </div>
