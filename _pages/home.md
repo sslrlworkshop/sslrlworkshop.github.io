@@ -201,11 +201,11 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://scholar.google.com/citations?user=mXtH1UYAAAAJ&hl=en">
+    <a href="https://amyzhang.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/amy_zhang.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://scholar.google.com/citations?user=mXtH1UYAAAAJ&hl=en">Amy Zhang</a>
+      <a href="https://amyzhang.github.io/">Amy Zhang</a>
       <h6>McGill University / Mila / Facebook</h6>
     </div>
   </div>
