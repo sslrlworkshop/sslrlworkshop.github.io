@@ -287,7 +287,7 @@ acknowledgements: ""
 <li>Ebert, Frederik, et al. "Visual foresight: Model-based deep reinforcement learning for vision-based robotic control." arXiv.  (2018). </li>
 <li>Sekar, Ramanan, et al. "Planning to Explore via Self-Supervised World Models." arXiv.  (2020). </li>
 <li>Lynch, Corey, et al. "Learning latent plans from play." Conference on Robot Learning. (2020). </li>
-<li>Jaderberg, Max, et al. "Reinforcement learning with unsupervised auxiliary tasks." arXiv. </i>(2016). </li>
+<li>Jaderberg, Max, et al. "Reinforcement learning with unsupervised auxiliary tasks." arXiv.(2016). </li>
 <li>Eslami, SM Ali, et al. "Neural scene representation and rendering." Science. (2018). </li>
 <li>Schwarzer, Max, et al. "Data-Efficient Reinforcement Learning with Self-Predictive Representations." arXiv.  (2020). </li>
 <li>Zhang, Amy, et al. "Learning invariant representations for reinforcement learning without reconstruction." arXiv.  (2020).  </li>
