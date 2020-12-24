@@ -31,7 +31,7 @@ h1 {
   margin: 0 0 10px;
   font-size: 35px;
   line-height: 35px;
-  color:red;
+  color:#c31;
   font-weight:400;
 }
 
@@ -39,7 +39,7 @@ h2 {
   margin: 0 0 10px;
   font-size: 30px;
   line-height: 30px;
-  color:red;
+  color:#c31;
 }
 
 h3 {
@@ -88,6 +88,7 @@ a {
 
 .navbar a {
   border-bottom: 0;
+  font-weight: 100;
 }
 
 p.lead.authors a {
