@@ -155,6 +155,9 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
+    
+  </div>
+  <div class="col-xs-6 col-lg-3">
     <a href="https://www.microsoft.com/en-us/research/people/jcl/">
       <img class="people-pic" src="{{ "/static/img/people/john_langford.jpg" | prepend:site.baseurl }}">
     </a>
@@ -296,3 +299,7 @@ acknowledgements: ""
 </ol>
   </div>
 </div>
+
+<div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0)">
+    <h6>Website theme inspired from <a href="https://github.com/vigilworkshop/vigilworkshop.github.io" class="h6">VIGIL workshop</a></h6>
+  </div>
