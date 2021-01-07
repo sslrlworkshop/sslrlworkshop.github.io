@@ -1,5 +1,5 @@
 body {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 23px;
   font-weight: 300;
   -webkit-font-smoothing: subpixel-antialiased;
@@ -82,7 +82,6 @@ a {
   border-bottom: 0px solid #ccc;
   color: #79706e;
   font-weight:bold;
-  font-size:19px;
 
 }
 
