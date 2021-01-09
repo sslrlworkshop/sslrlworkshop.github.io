@@ -103,7 +103,7 @@ acknowledgements: ""
       <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the ICLR 2021 LaTeX style file. Submissions are limited to 4 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li>
     </ul>
     <p>
-            In case of any issues, feel free to email the workshop organizers at: sslrl.ws.iclr2021@gmail.com
+            In case of any issues, feel free to email the workshop organizers at: <b>sslrl.ws.iclr2021@gmail.com</b>
     </p>
     </div>
 </div>
