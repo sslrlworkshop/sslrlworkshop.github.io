@@ -77,7 +77,11 @@ acknowledgements: ""
     </p>
     <p>
           <ul>
-  <li>self-supervised reinforcement learning</li>
+  <li>How can we leverage unsupervised data to bootstrap learning in an MDP, and what primitives should we learn: dynamics, representation, skills or something else?</li>
+              <li>How can we measure progress in development of self-supervised, general purpose agents? Do we need to create a GLUE like benchmark for RL?</li>
+            <li>What kind of structure in an MDP can an agent exploit to learn a task faster?</li>
+            <li>How can we design self-supervised objectives that encourage an agent to generalize well out of its training distribution?</li>
+            <li>Can we leverage insights from cognitive science on how humans acquire knowledge to build better self-supervised objectives?</li>
           </ul>
       </p>
       <p>We welcome review and positional papers that may foster discussions. We also encourage published papers from <i>*non-ML*</i> conferences, e.g. epistemology, cognitive science, psychology, neuroscience, that are within the scope of the workshop. </p>
