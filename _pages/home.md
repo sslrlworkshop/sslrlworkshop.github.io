@@ -100,7 +100,7 @@ acknowledgements: ""
 <div class="row">
     <div class="col-xs-12">
       <p>
-            Please upload submissions at: <b>https://openreview.net/group?id=ICLR.cc/2021/Workshop/SSL-RL</b>.
+            Please upload submissions at: <b><a href="https://openreview.net/group?id=ICLR.cc/2021/Workshop/SSL-RL">SSL-RL website</a></b>.
         </p>
     <ul>
       <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including ICLR 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li>
