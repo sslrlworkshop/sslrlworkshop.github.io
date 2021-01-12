@@ -70,18 +70,25 @@ acknowledgements: ""
   </div>
 </div>
 
+
+
+
+
+
 <div class="row">
   <div class="col-xs-12">
     <p>
-      The authors are welcome to submit a 4-page paper based on in-progress work, or relevant paper being presented at the main conference, on any of the following topics:
+      We invite both short (4 page) and long (8 page), anonymized submissions in the ICLR format that develop algorithms, benchmarks, and ideas to allow reinforcement learning agents to learn more effectively by making self-supervised predictions about their environment. More concretely, we welcome submissions around, but not necessarily limited to, the following broad questions: 
     </p>
     <p>
           <ul>
-  <li>How can we leverage unsupervised data to bootstrap learning in an MDP, and what primitives should we learn: dynamics, representation, skills or something else?</li>
-              <li>How can we measure progress in development of self-supervised, general purpose agents? Do we need to create a GLUE like benchmark for RL?</li>
-            <li>What kind of structure in an MDP can an agent exploit to learn a task faster?</li>
-            <li>How can we design self-supervised objectives that encourage an agent to generalize well out of its training distribution?</li>
-            <li>Can we leverage insights from cognitive science on how humans acquire knowledge to build better self-supervised objectives?</li>
+              <li>How can we leverage large amounts of unlabelled sensory data from diverse sources to bootstrap learning for reinforcement learning tasks?</li>
+              <li>Can we use auxiliary targets --- generated in an unsupervised manner --- to accelerate learning?</li>
+              <li>Can we meta-learn auxiliary targets that accelerate learning for a wide range of tasks?</li>
+              <li>Can we build benchmarks and protocols for systematically comparing existing self-supervision methods? </li>
+              <li>Do agents that learn multiple auxiliary predictions generalize better to new environments than those that learn purely by maximizing the reward?</li>
+              <li>Can we learn predictive state representations to accelerate learning and generalization?  </li>
+              <li>Can we benefit from insights gained from cognitive and neuroscience to build better self-supervisory objectives? </li>
           </ul>
       </p>
       <p>We welcome review and positional papers that may foster discussions. We also encourage published papers from <i>*non-ML*</i> conferences, e.g. epistemology, cognitive science, psychology, neuroscience, that are within the scope of the workshop. </p>
@@ -100,7 +107,7 @@ acknowledgements: ""
 <div class="row">
     <div class="col-xs-12">
       <p>
-            Please upload submissions at: <b><a href="https://openreview.net/group?id=ICLR.cc/2021/Workshop/SSL-RL" style="color:black">SSL-RL submission link</a></b>
+            Submissions should be uploaded on OpenReview: <b><a href="https://openreview.net/group?id=ICLR.cc/2021/Workshop/SSL-RL" style="color:black">SSL-RL submission link</a></b>
         </p>
     <ul>
       <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including ICLR 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li>
