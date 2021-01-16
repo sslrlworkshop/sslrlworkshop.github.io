@@ -88,7 +88,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We invite both short (4 page) and long (8 page), anonymized submissions in the ICLR format that develop algorithms, benchmarks, and ideas to allow reinforcement learning agents to learn more effectively by making self-supervised predictions about their environment. More concretely, we welcome submissions around, but not necessarily limited to, the following broad questions: 
+      We invite both short (4 page) and long (8 page), anonymized submissions in the <a href="https://github.com/ICLR/Master-Template/raw/master/archive/iclr2021.zip">ICLR LaTeX format</a> that develop algorithms, benchmarks, and ideas to allow reinforcement learning agents to learn more effectively by making self-supervised predictions about their environment. More concretely, we welcome submissions around, but not necessarily limited to, the following broad questions: 
     </p>
     <p>
           <ul>
@@ -101,33 +101,21 @@ acknowledgements: ""
               <li>Can we benefit from insights gained from cognitive and neuroscience to build better self-supervisory objectives? </li>
           </ul>
       </p>
-      <p>We welcome review and positional papers that may foster discussions. We also encourage published papers from <i>*non-ML*</i> conferences, e.g. epistemology, cognitive science, psychology, neuroscience, that are within the scope of the workshop. </p>
+      <p>We welcome review and positional papers that may foster discussions. We also encourage published papers from <i>*non-ML*</i> conferences, e.g. epistemology, cognitive science, psychology, neuroscience, that are within the scope of the workshop.
+       Note that as per ICLR guidelines, we don't accept works previously published in other conferences on machine learning, but are open to works that are currently under submission to a conference (such as ICML 2021).</p>
+      
+      <p>
+        Submissions should be uploaded on OpenReview: <a class="red" href="https://openreview.net/group?id=ICLR.cc/2021/Workshop/SSL-RL">SSL-RL submission link</a>
+      </p>
+      <p>
+        In case of any issues or questions, feel free to email the workshop organizers at: <a href="mailto:sslrl.ws.iclr2021@gmail.com" class="red">sslrl.ws.iclr2021@gmail.com</a>.
+      </p>
+
   </div>
 </div>
 
 
 <br />
-
-<div class="row" id="guidelines">
-  <div class="col-xs-12">
-    <h2>Submission Guidelines</h2>
-  </div>
-</div>
-
-<div class="row">
-    <div class="col-xs-12">
-      <p>
-            Submissions should be uploaded on OpenReview: <a class="red" href="https://openreview.net/group?id=ICLR.cc/2021/Workshop/SSL-RL">SSL-RL submission link</a>
-      </p>
-    <ul>
-      <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including ICLR 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li>
-      <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the ICLR 2021 LaTeX style file. Submissions are limited to 8 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li>
-    </ul>
-    <p>
-            In case of any issues, feel free to email the workshop organizers at: <b>sslrl.ws.iclr2021@gmail.com</b>
-    </p>
-    </div>
-</div>
 
 
 <hr />
