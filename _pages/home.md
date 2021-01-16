@@ -322,5 +322,5 @@ acknowledgements: ""
 </div>
 
 <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0)">
-    <h6>Website theme inspired from <a href="https://github.com/vigilworkshop/vigilworkshop.github.io" class="h6">VIGIL workshop</a></h6>
+    <h6>Website theme inspired from the <a href="https://github.com/vigilworkshop/vigilworkshop.github.io">VIGIL workshop</a>. Cover art by <a href="https://www.mattdixon.co.uk">Matt Dixon</a></h6>
   </div>
