@@ -10,21 +10,31 @@ acknowledgements: ""
 ---
 
 <br>
-<div class="row">
-  <div class="col-xs-12">
-    <center><h1>Self-supervision for reinforcement learning (SSL-RL)</h1></center>
-    <center><h2>May 8, 2021. ICLR Workshop.</h2></center>
+<div class="row reverse">
+  <div class="col-xs-12 col-md-7">
+    <h1>Self-supervision for Reinforcement Learning (SSL-RL)</h1>
+    <br>
+    <h4>May 8, 2021. ICLR Workshop.</h4>
+    <br>
+    <br>
+    <p>
+        Reinforcement learning (RL) entails letting an agent learn through interaction with an environment. The formalism is powerful in it’s generality, and presents us with a hard open-ended problem: how can we design agents that learn efficiently, and generalize well, given only sensory information and a scalar reward signal? The goal of this workshop is to explore the role of self-supervised learning within reinforcement learning agents, to make progress towards this goal. 
+    </p>
+  </div>
+  <div class="col-md-1 hidden-xs">
+  </div>
+  <div class="col-xs-12 col-md-4">
+    <img class="cover" src="/static/img/cover.jpg">
   </div>
 </div>
 
-<br />
+<br/>
 
 <div class="row">
-    <div class="col-xs-12">
-        <p>
-          Reinforcement learning (RL) entails letting an agent learn through interaction with an environment. The formalism is powerful in it’s generality, and presents us with a hard open-ended problem: how can we design agents that learn efficiently, and generalize well, given only sensory information and a scalar reward signal? The goal of this workshop is to explore the role of self-supervised learning within reinforcement learning agents, to make progress towards this goal. 
-        </p>
+    <div class="col-xs-8">
+        
     </div>
+
 </div>
 
 

@@ -230,3 +230,18 @@ pre {
 .paper-meta {
   font-size: 15px;
 }
+
+.fullwidth{
+  width: 100%;
+}
+
+.cover{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.reverse{
+  flex-direction: column-reverse;
+}
