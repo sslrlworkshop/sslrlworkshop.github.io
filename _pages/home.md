@@ -14,7 +14,7 @@ acknowledgements: ""
   <div class="col-xs-12 col-md-7">
     <h1>Self-supervision for Reinforcement Learning (SSL-RL)</h1>
     <br>
-    <h4>May 8, 2021. ICLR Workshop.</h4>
+    <h4>May 8, 2021 // ICLR Workshop</h4>
     <br>
     <br>
     <p>
@@ -117,8 +117,8 @@ acknowledgements: ""
 <div class="row">
     <div class="col-xs-12">
       <p>
-            Submissions should be uploaded on OpenReview: <b><a href="https://openreview.net/group?id=ICLR.cc/2021/Workshop/SSL-RL" style="color:black">SSL-RL submission link</a></b>
-        </p>
+            Submissions should be uploaded on OpenReview: <a class="red" href="https://openreview.net/group?id=ICLR.cc/2021/Workshop/SSL-RL">SSL-RL submission link</a>
+      </p>
     <ul>
       <li><b>Previously published work</b>: We welcome previously published papers from non-ML conferences, will also accept cross-submissions from ML conferences (including ICLR 2021) which are within the scope of the workshop without re-formatting. These specific papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.</li>
       <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the ICLR 2021 LaTeX style file. Submissions are limited to 8 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li>
@@ -139,7 +139,7 @@ acknowledgements: ""
 </div>
 
 <div class="row">
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="http://www.pyoudeyer.com/">
       <img class="people-pic" src="{{ "/static/img/people/py_oudeyer.jpg" | prepend:site.baseurl }}">
     </a>
@@ -148,7 +148,7 @@ acknowledgements: ""
       <h6>INRIA/ Flowers team</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="https://scholar.google.com/citations?user=YWVuCKUAAAAJ&hl=en">
       <img class="people-pic" src="{{ "/static/img/people/irina_higgins.png" | prepend:site.baseurl }}">
     </a>
@@ -157,7 +157,7 @@ acknowledgements: ""
       <h6>DeepMind</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="https://danijar.com/">
       <img class="people-pic" src="{{ "/static/img/people/danijar_hafner.jpg" | prepend:site.baseurl }}">
     </a>
@@ -166,7 +166,7 @@ acknowledgements: ""
       <h6>University of Toronto</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="http://www.elisevanderpol.nl/">
       <img class="people-pic" src="{{ "/static/img/people/elise_van_der_pol.jpg" | prepend:site.baseurl }}">
     </a>
@@ -175,10 +175,10 @@ acknowledgements: ""
       <h6>University of Amsterdam</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-3 people">
     
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="https://www.microsoft.com/en-us/research/people/jcl/">
       <img class="people-pic" src="{{ "/static/img/people/john_langford.jpg" | prepend:site.baseurl }}">
     </a>
@@ -187,7 +187,7 @@ acknowledgements: ""
       <h6>Microsoft Research, New York</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="http://www.princeton.edu/~yael/">
       <img class="people-pic" src="{{ "/static/img/people/yael_niv.jpg" | prepend:site.baseurl }}">
     </a>
@@ -224,7 +224,7 @@ acknowledgements: ""
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="https://amyzhang.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/amy_zhang.png" | prepend:site.baseurl }}">
     </a>
@@ -233,7 +233,7 @@ acknowledgements: ""
       <h6>McGill University / Mila / Facebook</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="https://ankeshanand.com/">
       <img class="people-pic" src="{{ "/static/img/people/ankesh_anand.jpg" | prepend:site.baseurl }}">
     </a>
@@ -242,7 +242,7 @@ acknowledgements: ""
       <h6>University of Montreal / Mila</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="https://bmazoure.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/bogdan_mazoure.jpg" | prepend:site.baseurl }}">
     </a>
@@ -251,16 +251,16 @@ acknowledgements: ""
       <h6>McGill University / Mila</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="https://rdevon.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/devon_hjelm.jpg" | prepend:site.baseurl }}">
     </a>
-    <div class="people-name">
+    <div class="people-name people">
       <a href="https://rdevon.github.io/">Devon Hjelm</a>
       <h6>Microsoft Research / University of Montreal</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="https://sites.ualberta.ca/~kjaved/">
       <img class="people-pic" src="{{ "/static/img/people/khurram_javed.jpg" | prepend:site.baseurl }}">
     </a>
@@ -269,7 +269,7 @@ acknowledgements: ""
       <h6>University of Alberta / AMII</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="http://webdocs.cs.ualberta.ca/~whitem/">
       <img class="people-pic" src="{{ "/static/img/people/martha_white.jpg" | prepend:site.baseurl }}">
     </a>
@@ -278,7 +278,7 @@ acknowledgements: ""
       <h6>University of Alberta / AMII</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="col-xs-6 col-lg-3 people">
     <a href="https://tldoan.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/thang_doan.jpg" | prepend:site.baseurl }}">
     </a>
