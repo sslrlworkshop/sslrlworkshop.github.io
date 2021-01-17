@@ -53,7 +53,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>February 22, 2021 AoE</td>
+          <td>February 26, 2021 AoE</td>
         </tr>
         <tr>
           <td>Decision Notifications</td>
@@ -88,7 +88,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We invite both short (4 page) and long (8 page), anonymized submissions in the <a href="https://github.com/ICLR/Master-Template/raw/master/archive/iclr2021.zip">ICLR LaTeX format</a> that develop algorithms, benchmarks, and ideas to allow reinforcement learning agents to learn more effectively by making self-supervised predictions about their environment. More concretely, we welcome submissions around, but not necessarily limited to, the following broad questions: 
+      We invite both short (4 page) and long (8 page) anonymized submissions in the <a href="https://github.com/ICLR/Master-Template/raw/master/archive/iclr2021.zip">ICLR LaTeX format</a> that develop algorithms, benchmarks, and ideas to allow reinforcement learning agents to learn more effectively by making self-supervised predictions about their environment. More concretely, we welcome submissions around, but not necessarily limited to, the following broad questions: 
     </p>
     <p>
           <ul>
