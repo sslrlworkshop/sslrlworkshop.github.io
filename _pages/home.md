@@ -206,6 +206,25 @@ acknowledgements: ""
 
 <hr />
 
+<div class="row" id="mindmatch">
+    <div class="col-xs-12">
+        <h2>Mind Match Program</h2>
+        <p> The Mind Match event is aimed as a catalyst for discussion between researchers with shared interests,
+         similar to the <a href="https://neuromatch.io/instructions/how-to-register">Neuromatch</a> and <a href="https://baicsworkshop.github.io/format.html">BAICS</a> events.
+         Participants will be split into small groups according to topics of interest,
+         and will have a chance to informally chat, discuss together and potentially setup collaborations. 
+         </p> 
+         <p>
+         Sing up 
+         <a href="https://docs.google.com/forms/d/1yJAQnIRLRaUd3Zxn6pAmSLxNY8OBseO5Jw4EZxHQG9s" class="red">here</a>, 
+         and we will notify you of your groups and the meeting link prior to the event. 
+        </p>. 
+
+    </div>
+</div>
+
+<hr />
+
 <div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
