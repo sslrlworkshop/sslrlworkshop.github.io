@@ -321,9 +321,11 @@ acknowledgements: ""
 <li>Lynch, Corey, et al. "Learning latent plans from play." Conference on Robot Learning. (2020). </li>
 <li>Jaderberg, Max, et al. "Reinforcement learning with unsupervised auxiliary tasks." arXiv.(2016). </li>
 <li>Eslami, SM Ali, et al. "Neural scene representation and rendering." Science. (2018). </li>
+<li>Anand, Ankesh, et al. "Unsupervised state representation learning in atari." Advances in neural information processing systems. (2020). </li>
 <li>Schwarzer, Max, et al. "Data-Efficient Reinforcement Learning with Self-Predictive Representations." arXiv.  (2020). </li>
 <li>Zhang, Amy, et al. "Learning invariant representations for reinforcement learning without reconstruction." arXiv.  (2020).  </li>
 <li>Mazoure, Bogdan, et al. "Deep reinforcement and infomax learning." Advances in Neural Information Processing Systems (2020). </li>
+<li> Stooke, Adam, et al. "Decoupling representation learning from reinforcement learning." arXiv preprint arXiv:2009.08319 (2020). </li>
 <li>Hansen, Nicklas, et al. "Self-Supervised Policy Adaptation during Deployment." arXiv. (2020). </li>
 </ol>
   </div>
