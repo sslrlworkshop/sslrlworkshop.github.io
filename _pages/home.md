@@ -294,7 +294,7 @@ acknowledgements: ""
 <li>Kipf, Thomas, Elise van der Pol, and Max Welling. "Contrastive learning of structured world models." arXiv.  (2019). </li>
 <li>Schmidhuber, Jürgen. "A possibility for implementing curiosity and boredom in model-building neural controllers." Proc. of the international conference on simulation of adaptive behavior: From animals to animals.  (1991). </li>
 <li>Klyubin, Alexander S., Daniel Polani, and Chrystopher L. Nehaniv. "Empowerment: A universal agent-centric measure of control." IEEE Congress on Evolutionary Computation.  (2005). </li>
-<l1>Sutton, Richard S., et al. "Horde: A scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction." The 10th International Conference on Autonomous Agents and Multiagent Systems-Volume 2. 2011. </l1>
+<li>Sutton, Richard S., et al. "Horde: A scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction." The 10th International Conference on Autonomous Agents and Multiagent Systems-Volume 2. 2011. </li>
 <li>Mohamed, Shakir, and Danilo Jimenez Rezende. "Variational information maximisation for intrinsically motivated reinforcement learning." Advances in neural information processing systems.  (2015). </li>
 <li>Pathak, Deepak, et al. "Curiosity-driven exploration by self-supervised prediction." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops.  (2017). </li>
 <li>Ebert, Frederik, et al. "Visual foresight: Model-based deep reinforcement learning for vision-based robotic control." arXiv.  (2018). </li>
