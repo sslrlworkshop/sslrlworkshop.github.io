@@ -217,7 +217,7 @@ acknowledgements: ""
          <p>
          Sing up 
          <a href="https://docs.google.com/forms/d/1yJAQnIRLRaUd3Zxn6pAmSLxNY8OBseO5Jw4EZxHQG9s" class="red">here</a>, 
-         and we will notify you of your groups and the meeting link prior to the event. 
+         and we will notify you or your groups and the meeting link prior to the event. 
         </p>. 
 
     </div>
