@@ -307,26 +307,26 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <ol>
-<li>Finn, Chelsea, Ian Goodfellow, and Sergey Levine. "Unsupervised learning for physical interaction through video prediction." <i>Advances in neural information processing systems.</i> (2016).</li>   
-<li>Ha, David, and Jürgen Schmidhuber. "Recurrent world models facilitate policy evolution." Advances in Neural Information Processing Systems. (2018). </li>
+<li>Finn, Chelsea, Ian Goodfellow, and Sergey Levine. "Unsupervised learning for physical interaction through video prediction." NeurIPS (2016).</li>   
+<li>Ha, David, and Jürgen Schmidhuber. "Recurrent world models facilitate policy evolution." NeurIPS (2018). </li>
 <li>Hafner, Danijar, et al. "Learning latent dynamics for planning from pixels." International Conference on Machine Learning. PMLR.  (2019).  </li>
 <li>Kipf, Thomas, Elise van der Pol, and Max Welling. "Contrastive learning of structured world models." arXiv.  (2019). </li>
 <li>Schmidhuber, Jürgen. "A possibility for implementing curiosity and boredom in model-building neural controllers." Proc. of the international conference on simulation of adaptive behavior: From animals to animals.  (1991). </li>
 <li>Klyubin, Alexander S., Daniel Polani, and Chrystopher L. Nehaniv. "Empowerment: A universal agent-centric measure of control." IEEE Congress on Evolutionary Computation.  (2005). </li>
 <li>Sutton, Richard S., et al. "Horde: A scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction." The 10th International Conference on Autonomous Agents and Multiagent Systems-Volume 2. 2011. </li>
-<li>Mohamed, Shakir, and Danilo Jimenez Rezende. "Variational information maximisation for intrinsically motivated reinforcement learning." Advances in neural information processing systems.  (2015). </li>
+<li>Mohamed, Shakir, and Danilo Jimenez Rezende. "Variational information maximisation for intrinsically motivated reinforcement learning." NeurIPS (2015). </li>
 <li>Pathak, Deepak, et al. "Curiosity-driven exploration by self-supervised prediction." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops.  (2017). </li>
 <li>Ebert, Frederik, et al. "Visual foresight: Model-based deep reinforcement learning for vision-based robotic control." arXiv.  (2018). </li>
 <li>Sekar, Ramanan, et al. "Planning to Explore via Self-Supervised World Models." arXiv.  (2020). </li>
-<li>Lynch, Corey, et al. "Learning latent plans from play." Conference on Robot Learning. (2020). </li>
+<li>Lynch, Corey, et al. "Learning latent plans from play." CoRL. (2020). </li>
 <li>Jaderberg, Max, et al. "Reinforcement learning with unsupervised auxiliary tasks." arXiv.(2016). </li>
 <li>Eslami, SM Ali, et al. "Neural scene representation and rendering." Science. (2018). </li>
-<li>Anand, Ankesh, et al. "Unsupervised state representation learning in atari." Advances in neural information processing systems. (2019). </li>
+<li>Anand, Ankesh, et al. "Unsupervised state representation learning in atari." NeurIPS (2019). </li>
 <li>Srinivas, Aravind et al. "CURL: Contrastive Unsupervised Representations for Reinforcement Learning" ICML (2020). </li>
-<li>Zhang, Amy, et al. "Learning invariant representations for reinforcement learning without reconstruction." arXiv.  (2020).  </li>
-<li>Mazoure, Bogdan, et al. "Deep reinforcement and infomax learning." Advances in Neural Information Processing Systems (2020). </li>
+<li>Zhang, Amy, et al. "Learning invariant representations for reinforcement learning without reconstruction." arXiv (2020).  </li>
+<li>Mazoure, Bogdan, et al. "Deep reinforcement and infomax learning." NeurIPS (2020). </li>
 <li> Stooke, Adam, et al. "Decoupling representation learning from reinforcement learning." arXiv preprint arXiv:2009.08319 (2020). </li>
-<li>Hansen, Nicklas, et al. "Self-Supervised Policy Adaptation during Deployment." arXiv. (2020). </li>
+<li>Hansen, Nicklas, et al. "Self-Supervised Policy Adaptation during Deployment." arXiv (2020). </li>
 <li> Agarwal, Rishab, et al. "Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning" ICLR (2021). </li>
 <li>Schwarzer, Max, et al. "Data-Efficient Reinforcement Learning with Self-Predictive Representations." ICLR (2021) </li>
 
