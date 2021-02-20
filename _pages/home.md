@@ -309,7 +309,7 @@ acknowledgements: ""
     <ol>
 <li>Finn, Chelsea, Ian Goodfellow, and Sergey Levine. "Unsupervised learning for physical interaction through video prediction." NeurIPS (2016).</li>   
 <li>Ha, David, and Jürgen Schmidhuber. "Recurrent world models facilitate policy evolution." NeurIPS (2018). </li>
-<li>Hafner, Danijar, et al. "Learning latent dynamics for planning from pixels." International Conference on Machine Learning. PMLR.  (2019).  </li>
+<li>Hafner, Danijar, et al. "Learning latent dynamics for planning from pixels." ICML (2019).  </li>
 <li>Kipf, Thomas, Elise van der Pol, and Max Welling. "Contrastive learning of structured world models." arXiv.  (2019). </li>
 <li>Schmidhuber, Jürgen. "A possibility for implementing curiosity and boredom in model-building neural controllers." Proc. of the international conference on simulation of adaptive behavior: From animals to animals.  (1991). </li>
 <li>Klyubin, Alexander S., Daniel Polani, and Chrystopher L. Nehaniv. "Empowerment: A universal agent-centric measure of control." IEEE Congress on Evolutionary Computation.  (2005). </li>
