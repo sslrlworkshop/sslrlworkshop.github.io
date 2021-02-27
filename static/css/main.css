@@ -256,3 +256,13 @@ pre {
 .reverse{
   flex-direction: column-reverse;
 }
+
+.alert{
+  color: #00917c;
+}
+
+.alert p{
+  margin-bottom: 0;
+  text-align: center;
+  font-weight: 500;
+}
