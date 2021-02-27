@@ -53,7 +53,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td><s>February 26, 2021 AoE</s> March 2, 2021 AoE</td>
+          <td><s>February 26, 2021</s> March 2, 2021 AoE</td>
         </tr>
         <tr>
           <td>Decision Notifications</td>
