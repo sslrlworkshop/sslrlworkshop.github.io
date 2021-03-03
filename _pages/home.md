@@ -10,8 +10,8 @@ acknowledgements: ""
 ---
 <div class="alert" role="alert">
     
-<p>Update: We've moved the submission 
-    deadline to March 2nd AoE!</p>
+<p>Update: We've extended the submission 
+    deadline to March 7th AoE!</p>
     
 </div>
 <div class="row reverse">
@@ -57,7 +57,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td><s>February 26, 2021</s> March 2, 2021 AoE</td>
+          <td><s>February 26, 2021</s> March 7, 2021 AoE</td>
         </tr>
         <tr>
           <td>Decision Notifications</td>
