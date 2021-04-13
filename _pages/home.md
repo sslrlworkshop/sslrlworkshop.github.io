@@ -319,7 +319,7 @@ acknowledgements: ""
 <li><b>[Spotlight]</b> <i>Augmented World Models Facilitate Zero-Shot Dynamics Generalization From a Single Offline Environment</i>. Philip Ball, Cong Lu, Jack Parker-Holder, Stephen Roberts.</li>
 
 <li><b>[Poster]</b> <i>COMBO: Conservative Offline Model-Based Policy Optimization</i>. Tianhe Yu, Aviral Kumar, Rafael Rafailov, Aravind Rajeswaran, Sergey Levine, Chelsea Finn.</li>
-<li><b>[Poster]</b> <i>Demonstration-Guided Reinforcement Learning with Learned Skillsv. Karl Pertsch, Youngwoon Lee, Yue Wu, Joseph J Lim.</li>
+<li><b>[Poster]</b> <i>Demonstration-Guided Reinforcement Learning with Learned Skills</i>. Karl Pertsch, Youngwoon Lee, Yue Wu, Joseph J Lim.</li>
 <li><b>[Poster]</b> <i>Generalizable Representations for Reinforcement Learning</i>. Rutav Shah, Vikash Kumar.</li>
 <li><b>[Poster]</b> <i>Goal Reaching via Recursive Reweighting of Offline Data</i>. Scott Emmons, Benjamin Eysenbach, Sergey Levine.</li>
 <li><b>[Poster]</b> <i>Learning State Representations via Temporal Cycle-Consistency Constraint in Model-Based Reinforcement Learning</i>. Changmin Yu, Dong Li, Hangyu Mao, Jianye Hao, Neil Burgess.</li>
