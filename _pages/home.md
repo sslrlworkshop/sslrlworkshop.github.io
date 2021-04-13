@@ -311,38 +311,38 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <ol>
-<li><b>[Oral]</b> Learning One Representation to Optimize All Rewards. Ahmed Touati, Yann Ollivier.</li>
-<li><b>[Oral]</b> Learning Generalizable Robotic Reward Functions from "In-The-Wild" Human Videos. Annie S Chen, Suraj Nair, Chelsea Finn.</li>
+<li><b>[Oral]</b> <i>Learning One Representation to Optimize All Rewards</i>. Ahmed Touati, Yann Ollivier.</li>
+<li><b>[Oral]</b> <i>Learning Generalizable Robotic Reward Functions from "In-The-Wild" Human Videos</i>. Annie S Chen, Suraj Nair, Chelsea Finn.</li>
 
-<li><b>[Spotlight]</b> Reinforcement Learning with Prototypical Representations. Denis Yarats, Rob Fergus, Alessandro Lazaric, Lerrel Pinto.</li>
-<li><b>[Spotlight]</b> Causal Inference Q-Network: Toward Resilient Reinforcement Learning. Chao-Han Huck Yang, Danny I-Te Hung, Yi Ouyang, Pin-Yu Chen.</li>
-<li><b>[Spotlight]</b> Augmented World Models Facilitate Zero-Shot Dynamics Generalization From a Single Offline Environment. Philip Ball, Cong Lu, Jack Parker-Holder, Stephen Roberts.</li>
+<li><b>[Spotlight]</b> <i>Reinforcement Learning with Prototypical Representations</i>. Denis Yarats, Rob Fergus, Alessandro Lazaric, Lerrel Pinto.</li>
+<li><b>[Spotlight]</b> <i>Causal Inference Q-Network: Toward Resilient Reinforcement Learning</i>. Chao-Han Huck Yang, Danny I-Te Hung, Yi Ouyang, Pin-Yu Chen.</li>
+<li><b>[Spotlight]</b> <i>Augmented World Models Facilitate Zero-Shot Dynamics Generalization From a Single Offline Environment</i>. Philip Ball, Cong Lu, Jack Parker-Holder, Stephen Roberts.</li>
 
-<li><b>[Poster]</b> COMBO: Conservative Offline Model-Based Policy Optimization. Tianhe Yu, Aviral Kumar, Rafael Rafailov, Aravind Rajeswaran, Sergey Levine, Chelsea Finn.</li>
-<li><b>[Poster]</b> Demonstration-Guided Reinforcement Learning with Learned Skills. Karl Pertsch, Youngwoon Lee, Yue Wu, Joseph J Lim.</li>
-<li><b>[Poster]</b> Generalizable Representations for Reinforcement Learning. Rutav Shah, Vikash Kumar.</li>
-<li><b>[Poster]</b> Goal Reaching via Recursive Reweighting of Offline Data. Scott Emmons, Benjamin Eysenbach, Sergey Levine.</li>
-<li><b>[Poster]</b> Learning State Representations via Temporal Cycle-Consistency Constraint in Model-Based Reinforcement Learning. Changmin Yu, Dong Li, Hangyu Mao, Jianye Hao, Neil Burgess.</li>
-<li><b>[Poster]</b> Learning Task Informed Abstractions. Xiang Fu, Ge Yang, Pulkit Agrawal, Tommi S. Jaakkola.</li>
-<li><b>[Poster]</b> Learning to Explore a Class of Multiple Reward-Free Environments. Mirco Mutti, Mattia Mancassola, Marcello Restelli.</li>
-<li><b>[Poster]</b> Learning to Infer Unseen Contexts in Causal Contextual Reinforcement Learning. Hamid Eghbal-zadeh, Florian Henkel, Gerhard Widmer.</li>
-<li><b>[Poster]</b> Less Suboptimal Learning and Control in Variational POMDPs. Baris Kayalibay, Atanas Mirchev, Patrick van der Smagt, Justin Bayer.</li>
-<li><b>[Poster]</b> LOCO: Adaptive exploration in reinforcement learning via local estimation of contraction coefficients. Manfred Diaz, Liam Paull, Pablo Samuel Castro.</li>
-<li><b>[Poster]</b> Minimum Description Length Skills for Accelerated Reinforcement Learning. Jesse Zhang, Karl Pertsch, Jiefan Yang, Joseph J Lim.</li>
-<li><b>[Poster]</b> Model-Invariant State Abstractions for Model-Based Reinforcement Learning. Manan Tomar, Amy Zhang, Roberto Calandra, Matthew E. Taylor, Joelle Pineau.</li>
-<li><b>[Poster]</b> Offline Reinforcement Learning with Pseudometric Learning.  Robert Dadashi, shideh rezaeifar, Nino Vieillard, Leonard Hussenot, Olivier Pietquin, Matthieu Geist.</li>
-<li><b>[Poster]</b> Optimism is All You Need: Model-Based Imitation Learning From Observation Alone.  Rahul Kidambi, Jonathan Daniel Chang, Wen Sun.</li>
-<li><b>[Poster]</b> Out-of-distribution generalization of internal models is correlated with reward.  Khushdeep Singh Mann, Steffen Schneider, Alberto Chiappa, Jin Hwa Lee, Matthias Bethge, Alexander Mathis, Mackenzie W Mathis.</li>
-<li><b>[Poster]</b> Pretraining Reward-Free Representations for Data-Efficient Reinforcement Learning. Max Schwarzer, Nitarshan Rajkumar, Michael Noukhovitch, Ankesh Anand, Laurent Charlin, R Devon Hjelm, Philip Bachman, Aaron Courville.</li>
-<li><b>[Poster]</b> PsiPhi-Learning: Reinforcement Learning with Demonstrations using Successor Features and Inverse Temporal Difference Learning. Angelos Filos, Clare Lyle, Yarin Gal, Sergey Levine, Natasha Jaques, Gregory Farquhar.</li>
-<li><b>[Poster]</b> Relevant Action Matters : Motivating agent with action usefulness. Mathieu Seurin, Florian Strub, Philippe Preux, Olivier Pietquin.</li>
-<li><b>[Poster]</b> Representation Matters: Offline Pretraining for Sequential Decision Making. Mengjiao Yang, Ofir Nachum.</li>
-<li><b>[Poster]</b> Resolving Causal Confusion in Reinforcement Learning via Robust Exploration. Clare Lyle, Amy Zhang, Minqi Jiang, Joelle Pineau, Yarin Gal.</li>
-<li><b>[Poster]</b> Self-Supervised Exploration via Latent Bayesian Surprise. Pietro Mazzaglia, Ozan Catal, Tim Verbelen, Bart Dhoedt.</li>
-<li><b>[Poster]</b> Solipsistic Reinforcement Learning. Mingtian Zhang, Peter Noel Hayes, Tim Z. Xiao, Andi Zhang, David Barber.</li>
-<li><b>[Poster]</b> State Entropy Maximization with Random Encoders for Efficient Exploration. Younggyo Seo, Lili Chen, Jinwoo Shin, Honglak Lee, Pieter Abbeel, Kimin Lee.</li>
-<li><b>[Poster]</b> Unsupervised Feature Learning for Manipulation with Contrastive Domain Randomization. Carmel Rabinovitz, Niko Grupen, Aviv Tamar.</li>
-<li><b>[Poster]</b> Variational Model-Based Imitation Learning in High-Dimensional Observation Spaces. Rafael Rafailov, Tianhe Yu, Aravind Rajeswaran, Chelsea Finn.</li>
+<li><b>[Poster]</b> <i>COMBO: Conservative Offline Model-Based Policy Optimization</i>. Tianhe Yu, Aviral Kumar, Rafael Rafailov, Aravind Rajeswaran, Sergey Levine, Chelsea Finn.</li>
+<li><b>[Poster]</b> <i>Demonstration-Guided Reinforcement Learning with Learned Skillsv. Karl Pertsch, Youngwoon Lee, Yue Wu, Joseph J Lim.</li>
+<li><b>[Poster]</b> <i>Generalizable Representations for Reinforcement Learning</i>. Rutav Shah, Vikash Kumar.</li>
+<li><b>[Poster]</b> <i>Goal Reaching via Recursive Reweighting of Offline Data</i>. Scott Emmons, Benjamin Eysenbach, Sergey Levine.</li>
+<li><b>[Poster]</b> <i>Learning State Representations via Temporal Cycle-Consistency Constraint in Model-Based Reinforcement Learning</i>. Changmin Yu, Dong Li, Hangyu Mao, Jianye Hao, Neil Burgess.</li>
+<li><b>[Poster]</b> <i>Learning Task Informed Abstractions</i>. Xiang Fu, Ge Yang, Pulkit Agrawal, Tommi S. Jaakkola.</li>
+<li><b>[Poster]</b> <i>Learning to Explore a Class of Multiple Reward-Free Environments</i>. Mirco Mutti, Mattia Mancassola, Marcello Restelli.</li>
+<li><b>[Poster]</b> <i>Learning to Infer Unseen Contexts in Causal Contextual Reinforcement Learning</i>. Hamid Eghbal-zadeh, Florian Henkel, Gerhard Widmer.</li>
+<li><b>[Poster]</b> <i>Less Suboptimal Learning and Control in Variational POMDPs</i>. Baris Kayalibay, Atanas Mirchev, Patrick van der Smagt, Justin Bayer.</li>
+<li><b>[Poster]</b> <i>LOCO: Adaptive exploration in reinforcement learning via local estimation of contraction coefficients</i>. Manfred Diaz, Liam Paull, Pablo Samuel Castro.</li>
+<li><b>[Poster]</b> <i>Minimum Description Length Skills for Accelerated Reinforcement Learning</i>. Jesse Zhang, Karl Pertsch, Jiefan Yang, Joseph J Lim.</li>
+<li><b>[Poster]</b> <i>Model-Invariant State Abstractions for Model-Based Reinforcement Learning</i>. Manan Tomar, Amy Zhang, Roberto Calandra, Matthew E. Taylor, Joelle Pineau.</li>
+<li><b>[Poster]</b> <i>Offline Reinforcement Learning with Pseudometric Learning</i>.  Robert Dadashi, shideh rezaeifar, Nino Vieillard, Leonard Hussenot, Olivier Pietquin, Matthieu Geist.</li>
+<li><b>[Poster]</b> <i>Optimism is All You Need: Model-Based Imitation Learning From Observation Alone</i>.  Rahul Kidambi, Jonathan Daniel Chang, Wen Sun.</li>
+<li><b>[Poster]</b> <i>Out-of-distribution generalization of internal models is correlated with reward</i>.  Khushdeep Singh Mann, Steffen Schneider, Alberto Chiappa, Jin Hwa Lee, Matthias Bethge, Alexander Mathis, Mackenzie W Mathis.</li>
+<li><b>[Poster]</b> <i>Pretraining Reward-Free Representations for Data-Efficient Reinforcement Learning</i>. Max Schwarzer, Nitarshan Rajkumar, Michael Noukhovitch, Ankesh Anand, Laurent Charlin, R Devon Hjelm, Philip Bachman, Aaron Courville.</li>
+<li><b>[Poster]</b> <i>PsiPhi-Learning: Reinforcement Learning with Demonstrations using Successor Features and Inverse Temporal Difference Learning</i>. Angelos Filos, Clare Lyle, Yarin Gal, Sergey Levine, Natasha Jaques, Gregory Farquhar.</li>
+<li><b>[Poster]</b> <i>Relevant Action Matters : Motivating agent with action usefulness</i>. Mathieu Seurin, Florian Strub, Philippe Preux, Olivier Pietquin.</li>
+<li><b>[Poster]</b> <i>Representation Matters: Offline Pretraining for Sequential Decision Making</i>. Mengjiao Yang, Ofir Nachum.</li>
+<li><b>[Poster]</b> <i>Resolving Causal Confusion in Reinforcement Learning via Robust Exploration</i>. Clare Lyle, Amy Zhang, Minqi Jiang, Joelle Pineau, Yarin Gal.</li>
+<li><b>[Poster]</b> <i>Self-Supervised Exploration via Latent Bayesian Surprise</i>. Pietro Mazzaglia, Ozan Catal, Tim Verbelen, Bart Dhoedt.</li>
+<li><b>[Poster]</b> <i>Solipsistic Reinforcement Learning</i>. Mingtian Zhang, Peter Noel Hayes, Tim Z. Xiao, Andi Zhang, David Barber.</li>
+<li><b>[Poster]</b> <i>State Entropy Maximization with Random Encoders for Efficient Exploration</i>. Younggyo Seo, Lili Chen, Jinwoo Shin, Honglak Lee, Pieter Abbeel, Kimin Lee.</li>
+<li><b>[Poster]</b> <i>Unsupervised Feature Learning for Manipulation with Contrastive Domain Randomization</i>. Carmel Rabinovitz, Niko Grupen, Aviv Tamar.</li>
+<li><b>[Poster]</b> <i>Variational Model-Based Imitation Learning in High-Dimensional Observation Spaces</i>. Rafael Rafailov, Tianhe Yu, Aravind Rajeswaran, Chelsea Finn.</li>
 
 
 
