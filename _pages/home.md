@@ -303,7 +303,7 @@ acknowledgements: ""
 <hr />
 
 
-<div class="row">
+<div class="row" id="accepted">
   <div class="col-xs-12">
     <h2>Accepted papers</h2>
   </div>
