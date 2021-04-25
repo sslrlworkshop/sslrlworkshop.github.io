@@ -8,12 +8,6 @@ bibtex: true
 paper: true
 acknowledgements: ""
 ---
-<div class="alert" role="alert">
-    
-<p>Update: We've extended the submission 
-    deadline to March 7th AoE!</p>
-    
-</div>
 <div class="row reverse">
   <div class="col-xs-12 col-md-7">
     <h1>Self-supervision for Reinforcement Learning (SSL-RL)</h1>
