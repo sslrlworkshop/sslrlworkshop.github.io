@@ -8,6 +8,7 @@ bibtex: true
 paper: true
 acknowledgements: ""
 ---
+<br/>
 <div class="row reverse">
   <div class="col-xs-12 col-md-7">
     <h1>Self-supervision for Reinforcement Learning (SSL-RL)</h1>
