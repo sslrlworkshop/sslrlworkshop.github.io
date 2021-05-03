@@ -8,12 +8,7 @@ bibtex: true
 paper: true
 acknowledgements: ""
 ---
-<div class="alert" role="alert">
-    
-<p>Update: We've extended the submission 
-    deadline to March 7th AoE!</p>
-    
-</div>
+<br/>
 <div class="row reverse">
   <div class="col-xs-12 col-md-7">
     <h1>Self-supervision for Reinforcement Learning (SSL-RL)</h1>
@@ -65,11 +60,11 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Camera Ready Paper Deadline</td>
-          <td>April 15, 2021 AoE</td>
+          <td>April 25, 2021 AoE</td>
         </tr>
         <tr>
           <td>Workshop</td>
-          <td>May 8, 2021</td>
+          <td>May 7, 2021</td>
         </tr>
       </tbody>
     </table>
@@ -303,7 +298,7 @@ acknowledgements: ""
 <hr />
 
 
-<div class="row">
+<div class="row" id="accepted">
   <div class="col-xs-12">
     <h2>Accepted papers</h2>
   </div>
