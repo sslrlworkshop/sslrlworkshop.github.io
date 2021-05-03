@@ -18,7 +18,7 @@ acknowledgements: ""
   <div class="col-xs-12 col-md-7">
     <h1>Self-supervision for Reinforcement Learning (SSL-RL)</h1>
     <br>
-    <h4>May 8, 2021 // ICLR Workshop</h4>
+    <h4>May 7, 2021 // ICLR Workshop</h4>
     <br>
     <br>
     <p>
