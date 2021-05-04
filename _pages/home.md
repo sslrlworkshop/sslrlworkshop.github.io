@@ -59,16 +59,16 @@ acknowledgements: ""
           <td><s>February 26, 2021</s> March 7, 2021 AoE</td>
         </tr>
         <tr>
-          <td>Decision Notifications</td>
+          <td><s>Decision Notifications</s></td>
           <td>March 26, 2021 </td>
         </tr>
         <tr>
-          <td>Camera Ready Paper Deadline</td>
+          <td><s>Camera Ready Paper Deadline</s></td>
           <td>April 25, 2021 AoE</td>
         </tr>
         <tr>
           <td>Workshop</td>
-          <td>May 7, 2021</td>
+          <td>Friday, May 7, 2021</td>
         </tr>
       </tbody>
     </table>
