@@ -20,7 +20,9 @@ acknowledgements: ""
         Reinforcement learning (RL) entails letting an agent learn through interaction with an environment. The formalism is powerful in it’s generality, and presents us with a hard open-ended problem: how can we design agents that learn efficiently, and generalize well, given only sensory information and a scalar reward signal? The goal of this workshop is to explore the role of self-supervised learning within reinforcement learning agents, to make progress towards this goal. 
     </p>
 
-    <b>Update:</b> We are releasing a Q&A form where every workshop participant can ask a question to invited speakers: <a href="https://docs.google.com/forms/d/1KaF4omXVoXvZ8I3CxHK7AE7sRHsd-BfoYF372hR5Tdg/viewform?ts=6091a10c">form</a>. There will also be a 5 to 10 minute period at the end of each talk where live questions can be asked.
+    <font color="c31"><b>Update:</b></font> We are releasing a Q&A form where every workshop participant can ask a question to invited speakers: <a href="https://docs.google.com/forms/d/1KaF4omXVoXvZ8I3CxHK7AE7sRHsd-BfoYF372hR5Tdg/viewform?ts=6091a10c">Link to form</a>. 
+    <br>
+    There will also be a 5 to 10 minute period at the end of each talk where live questions can be asked.
   </div>
   <div class="col-md-1 hidden-xs">
   </div>
