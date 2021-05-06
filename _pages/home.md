@@ -41,6 +41,22 @@ acknowledgements: ""
 
 </div>
 
+<div class="row" id="cfp">
+  <div class="col-xs-12">
+    <h2>Official schedule</h2>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+    <img src="{{ "/static/img/official_SSL_RL_schedule.png" | prepend:site.baseurl }}">
+
+  </div>
+</div>
+
+
+<br />
+
 
 <br />
 
