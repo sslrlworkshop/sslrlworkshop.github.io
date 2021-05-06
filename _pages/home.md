@@ -44,6 +44,8 @@ acknowledgements: ""
 <div class="row" id="cfp">
   <div class="col-xs-12">
     <h2>Official schedule</h2>
+    <br/>
+    <p> All times listed below are in Eastern Time (ET). </p> 
   </div>
 </div>
 
