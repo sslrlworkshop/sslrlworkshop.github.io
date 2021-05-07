@@ -46,6 +46,11 @@ acknowledgements: ""
     <h2>Official schedule</h2>
     <br/>
     <p> All times listed below are in Eastern Time (ET). See the <a href="https://iclr.cc/virtual/2021/workshop/2126"> ICLR virtual page </a> for information about how to join these sessions. </p> 
+    <p>Other important links:</p>
+     <ul>
+              <li><b>GatherTown</b>: <a href="https://eventhosts.gather.town/app/sDivwLB5Syb18VOl/sslrlworkshop">Link</a></li>
+              <li><b>Zoom</b>: <a href="https://us02web.zoom.us/j/86347433480?pwd=dlc0Rmp6UGFFS001QmU0ZER4TEhrdz09">Link</a></li>
+    </ul>
   </div>
 </div>
 
