@@ -41,26 +41,123 @@ acknowledgements: ""
 
 </div>
 
-<div class="row" id="cfp">
+<div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Official schedule</h2>
     <br/>
-    <p> All times listed below are in Eastern Time (ET). </p> 
+    <p> All times listed below are in Eastern Time (ET). See the <a href="https://iclr.cc/virtual/2021/workshop/2126"> ICLR virtual page </a> for information about how to join these sessions. </p> 
   </div>
 </div>
 
 <div class="row">
   <div class="col-xs-12">
-    <img src="{{ "/static/img/official_SSL_RL_schedule.png" | prepend:site.baseurl }}">
-
+    <table class="table table-striped">
+      <tbody>
+        <tr>
+          <td>08:45 - 09:00 AM</td>
+          <td>
+            Opening remarks
+          </td>
+        </tr>
+        <tr>
+          <td>09:00 - 09:30 AM</td>
+          <td>
+            Invited talk: Disentanglement and RL <br/>
+            <i> Irina Higgins </i>
+          </td>
+        </tr>
+        <tr>
+          <td>09:30 - 10:00 AM</td>
+          <td>
+            Invited talk: Open-ended Self-Supervised Learning <br/>
+            <i> Pierre-Yves Oudeyer </i>
+          </td>
+        </tr>
+        <tr>
+          <td>10:00 - 10:30 AM</td>
+          <td>
+            Contributed Talk: Learning One Representation to Optimize All Rewards <br/>
+            <i> Ahmed Touati, Yann Ollivier </i>
+          </td>
+        </tr>
+        <tr>
+          <td>10:30 - 11:30 AM</td>
+          <td>
+            Coffee break and Poster Session 
+          </td>
+        </tr>
+        <tr>
+          <td>11:30 - 12:00 PM</td>
+          <td>
+            Learning Generalizable Robotic Reward Functions from "In-The-Wild" Human Videos <br/>
+            <i> Annie S Chen, Suraj Nair, Chelsea Finn </i>
+          </td>
+        </tr>
+        <tr>
+          <td>12:30 - 1:30 PM</td>
+          <td>
+            Lunch and Breakout Sessions
+          </td>
+        </tr>
+        <tr>
+          <td>1:30 - 2:00 PM</td>
+          <td>
+            Invited talk: Learning What to Learn <br/>
+            <i> Yael Niv </i>
+          </td>
+        </tr>
+        <tr>
+          <td>2:00 - 2:30 PM</td>
+          <td>
+            Invited talk: Equivariances in MDPs <br/>
+            <i> Elise Van der Pol </i>
+          </td>
+        </tr>
+        <tr>
+          <td>2:30 - 3:30 PM</td>
+          <td>
+            Spotlights
+            <ul>
+            <li>Reinforcement Learning with Prototypical Representations<br>
+            (Denis Yarats, Rob Fergus, Alessandro Lazaric, Lerrel Pinto)</li>
+            <li>Causal Inference Q-Network: Toward Resilient Reinforcement Learning<br>
+            (Chao-Han Huck Yang, Danny I-Te Hung, Yi Ouyang, Pin-Yu Chen)
+            </li>
+            <li>Augmented World Models Facilitate Zero-Shot Dynamics Generalization From a Single Offline Environment<br>
+            (Philip Ball, Cong Lu, Jack Parker-Holder, Stephen Roberts)
+            </li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>3:30 - 4:30 PM</td>
+          <td>
+            Coffee break and poster session 2
+          </td>
+        </tr>
+        <tr>
+          <td>4:30 - 5:00 PM</td>
+          <td>
+            State Abstractions <br/>
+            <i> John Langford </i>
+          </td>
+        </tr>
+        <tr>
+          <td>5:00 - 5:30 PM</td>
+          <td>
+            Active Inference and RL <br/>
+            <i> Danijar Hafner </i>
+          </td>
+        </tr>
+        <tr>
+          <td>5:30 - 6:30 PM</td>
+          <td> Panel Discussion </td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 </div>
 
-
-<br />
-
-
-<br />
 
 <div class="row" id="dates">
   <div class="col-xs-12">
@@ -245,7 +342,8 @@ acknowledgements: ""
     </div>
 </div>
 
-<hr />
+
+
 
 <div class="row" id="organizers">
   <div class="col-xs-12">
@@ -327,6 +425,10 @@ acknowledgements: ""
   </div>
 </div>
 <div class="row">
+<div class="col-md-12">
+    <br/>
+    <p> Camera-ready versions of all the papers are available on <a href="https://openreview.net/group?id=ICLR.cc/2021/Workshop/SSL-RL"> OpenReview </a> </p>
+    </div>
   <div class="col-md-12">
     <ol>
 <li><b>[Oral]</b> <i>Learning One Representation to Optimize All Rewards</i>. Ahmed Touati, Yann Ollivier.</li>
